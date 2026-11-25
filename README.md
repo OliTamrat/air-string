@@ -2,7 +2,7 @@
 
 A browser instrument: draw strings in the air with your hands and play them. One page, webcam only, no install, no server. The camera picture is processed on the device and never leaves it.
 
-Live: https://olitamrat.github.io/air-string/ (after GitHub Pages is switched on for the `main` branch)
+Live: https://olitamrat.github.io/air-string/
 
 ## Playing
 
