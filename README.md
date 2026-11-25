@@ -8,9 +8,13 @@ Live: https://olitamrat.github.io/air-string/
 
 - **Draw**: pinch thumb and index finger, drag, release. Up to 8 strings.
 - **Pluck**: flick a fingertip quickly across a string. Sweep across several for a chord.
-- **Stretch**: pinch a string and pull it sideways; the pitch rises. Let go and it snaps back.
+- **Stretch**: pinch the middle of a string and pull it sideways; the pitch rises. Let go and it snaps back.
+- **Resize**: pinch an end of a string and move it. Shorter sounds higher, longer lower; the new note is kept.
+- **Span**: pinch with both hands in open space to stretch a new string between them.
 - **Clear**: hold an open palm still for 2 seconds.
-- **Touch or mouse**: drag in open space to draw, swipe across strings to pluck, press on a string and pull to stretch.
+- **Touch or mouse**: drag in open space to draw, swipe across strings to pluck, press on a string and pull to stretch, drag an end to resize.
+
+In camera mode the mirrored camera picture is the stage, with a hand skeleton drawn over each hand.
 
 Songbook mode retunes to a song's notes, plays the melody once, then scores your pass over a bass and drum backing.
 
