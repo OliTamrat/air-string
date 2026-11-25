@@ -16,7 +16,9 @@ Live: https://olitamrat.github.io/air-string/
 
 In camera mode the mirrored camera picture is the stage, with a hand skeleton drawn over each hand.
 
-Songbook mode retunes to a song's notes, plays the melody once, then scores your pass over a bass and drum backing.
+Songbook mode retunes to a song's notes, plays the melody once, then scores your pass over a bass and drum backing. It holds 14 public-domain classics, four original melodies in the Ethiopian qenet (tizita, bati, ambassel, anchihoye) and a form for adding your own songs, which are kept on the device.
+
+Instruments: guitar (Karplus-Strong), piano, sax and a drum kit where each string is one drum. Tunings include the four qenet, written from C at the nearest tempered notes.
 
 ## Files
 
